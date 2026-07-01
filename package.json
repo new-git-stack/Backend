@@ -2,6 +2,14 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "node.js tutorial",
+  "homepage": "https://github.com/new-git-stack/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/new-git-stack/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/new-git-stack/Backend.git"
+  },
   "license": "ISC",
   "author": "Samuel",
   "type": "commonjs",
